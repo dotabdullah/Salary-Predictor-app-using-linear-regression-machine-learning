@@ -1,0 +1,6 @@
+{
+  "name": "Salary Predictor",
+  "description": "An interactive, visual explanation and playground for Simple Linear Regression using a Salary vs. Experience dataset, directly mirroring and animating Google Colab and scikit-learn training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
